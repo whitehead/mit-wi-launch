@@ -14,5 +14,5 @@ This is a slack community to connect MIT biologists and computer scientists to f
 </h1></center>
 
 
-Please see our [Code of Conduct](/code_of_conduct) and [FAQ](/faq) for more information.  
+Please see our [Code of Conduct](code_of_conduct) and [FAQ](faq) for more information.  
 Highlights: **Be respectful, be kind, and be inclusive.**
