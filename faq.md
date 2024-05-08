@@ -7,7 +7,7 @@ permalink: /faq/
 
 #### Whitehead Institute Affiliated
 You can sign up for one and HR will sponsor you. Please start the process
-by filling out the [MIT Account Request Form](https://it.wi.mit.edu/forms/mit-account-request)
+by filling out the [MIT Account Request Form](https://ithelp.wi.mit.edu/support/catalog/items/46)
 
 #### Independent Collaborator
 We also have a limited number of invites for non-MIT affiliates. Members can sponsor independent collaborators. If you are interested in joining,
