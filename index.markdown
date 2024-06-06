@@ -13,6 +13,12 @@ This is a slack community to connect MIT biologists and computer scientists to f
 <a href="https://mit-wi-launch.slack.com">mit-wi-launch.slack.com</a>
 </h1></center>
 
+<table><tr><td align=center>
+<a href="mobile-help">Mobile Help</a>
+</td><td align=center>
+<a href="desktop-help">Desktop Help</a>
+</td></tr></table>
+
 
 Please see our [Code of Conduct](code_of_conduct) and [FAQ](faq) for more information.  
 Highlights: **Be respectful, be kind, and be inclusive.**
